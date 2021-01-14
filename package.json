@@ -1,0 +1,9 @@
+{
+  "name": "cross-border",
+  "version": "1.0.0",
+  "author": "nick@deploy.at",
+  "license": "ISC",
+  "dependencies": {
+    "stellar-sdk": "^7.0.0"
+  }
+}
